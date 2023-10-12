@@ -1,0 +1,22 @@
+.nav {
+  width: 100vw; 
+  margin-bottom: 20px; 
+  padding: 20px; 
+  background-color: #ff5733; 
+  box-shadow: 0 0 8px 8px #ff5733; 
+}
+
+.nav h1 {
+  text-shadow: 4px 4px #000; 
+  color: #ffcd05; 
+  text-align: center;
+  font-size: 36px; 
+  letter-spacing: 3px; 
+  text-transform: uppercase; 
+  margin-top: 10px;
+  padding: 10px 0; 
+  background: linear-gradient(90deg, #ffcd05, #ff5733); 
+  -webkit-background-clip: text; 
+  color: transparent; 
+}
+
